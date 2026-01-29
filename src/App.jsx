@@ -1,11 +1,11 @@
-
-
 function App() {
   return (
-    <>
-       <h1>Hello World</h1>
-    </>
-  );
+    <div className="p-10">
+      <button className="btn btn-primary">
+        DaisyUI TEST
+      </button>
+    </div>
+  )
 }
 
 export default App
